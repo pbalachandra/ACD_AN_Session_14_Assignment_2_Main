@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Insert Contact in Phonebook</string>
+    <string name="name">Enter Contact Name : </string>
+    <string name="phone">Enter Contact Mobile Number : </string>
+    <string name="message">New Contact Inserted in Phonebook</string>
+    <string name="warning">Contact %1$s already exists</string>
+    <string name="empty">Contact Details cannot be Empty</string>
+</resources>
